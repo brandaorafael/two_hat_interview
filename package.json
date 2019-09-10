@@ -1,0 +1,10 @@
+{
+  "name": "TwoHatInterviewProject",
+  "version": "1.0.0",
+  "description": "Interview project for the company Two Hat",
+  "author": "Rafael Augusto Brandão (brandaorafael)",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.3.2"
+  }
+}
